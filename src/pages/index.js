@@ -11,7 +11,8 @@ class Home extends React.Component {
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <h1>Hi World!</h1>
+        <h1>Blog</h1>
+        <h2>Short updates in life and tech</h2>
       </Layout>
     )
   }
