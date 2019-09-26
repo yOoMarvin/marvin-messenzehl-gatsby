@@ -3,7 +3,7 @@ module.exports = {
     title: `Marvin Messenzehl`,
     author: `Marvin Messenzehl`,
     description: `Stories of a digital creator`,
-    siteUrl: `http://gmarvinmessenzehl.com/`,
+    siteUrl: `http://marvinmessenzehl.com/`,
     social: {
       twitter: `yoomarvin`,
     },
@@ -68,11 +68,5 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
   ],
 }
